@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordDesktopPrototypeServer", "RecordDesktopPrototype\RecordDesktopPrototypeServer.csproj", "{D393BC91-EF49-4C54-AA7F-FCA97C4B72B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordDesktopPrototypeClient", "RecordDesktopPrototypeClient\RecordDesktopPrototypeClient.csproj", "{0980F284-1088-4E51-ACAF-ADDC2FA77D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D393BC91-EF49-4C54-AA7F-FCA97C4B72B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D393BC91-EF49-4C54-AA7F-FCA97C4B72B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D393BC91-EF49-4C54-AA7F-FCA97C4B72B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D393BC91-EF49-4C54-AA7F-FCA97C4B72B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0980F284-1088-4E51-ACAF-ADDC2FA77D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0980F284-1088-4E51-ACAF-ADDC2FA77D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0980F284-1088-4E51-ACAF-ADDC2FA77D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0980F284-1088-4E51-ACAF-ADDC2FA77D46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEC4B004-D7A4-403C-AF91-26ACCCE2742D}
+	EndGlobalSection
+EndGlobal
